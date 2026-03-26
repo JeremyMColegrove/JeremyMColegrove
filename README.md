@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jeremy
 
-<!--
-**JeremyMColegrove/JeremyMColegrove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web apps, tooling, and automation.
 
-Here are some ideas to get you started:
+## What I work on
+- Next.js
+- Docker
+- Electron
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current projects
+- [Trackables](https://trackables.org/)
+- [WeVolunteer](https://wevolunteer.today)
+- [Synapse](https://projectsynapse.dev)
+- [Loom](https://github.com/JeremyMColegrove/loom)
+
+## Links
+- Website: https://jeremycolegrove.me
+- LinkedIn: https://www.linkedin.com/in/jcoleg/
